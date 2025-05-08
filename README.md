@@ -34,15 +34,9 @@ Combined visualizations in Power BI with a uniform color theme and clean layout.
 Added slicers, tooltips, and legends to enhance interactivity and usability.
 
 # Dashboard Insights
-Total Sales: 1.57M | Total Profit: 175.26K
-Top Region: West leads in both sales and quantity sold.
-Segment Share: Consumer accounts for 48% of sales, followed by Corporate.
-Payment Preferences: COD (43%) and Online (35%) are most used.
-Top Categories: Office Supplies and Technology show high sales volume.
-Seasonal Trend: Q4 (Oct–Dec) records highest monthly sales and profit.
-State Performance: California alone contributes over 24% of total sales.
-Booking Mode: Standard Class dominates shipping preferences.
-Sub-Category Trends: Phones and Chairs are the top-selling products.
+![Screenshot (26)](https://github.com/user-attachments/assets/d03173a4-091b-41a9-b250-5b85e87567ec)
+![Screenshot (27)](https://github.com/user-attachments/assets/c89fa4e3-5002-4375-96a8-7a07169080d8)
+
 
 # Final Conclusion
 To optimize performance:
