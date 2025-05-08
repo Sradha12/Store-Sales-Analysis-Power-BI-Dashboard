@@ -13,4 +13,5 @@ What are the most used shipping and payment modes?
 How is the state-wise performance in terms of percentage sales contribution?
 Which quarter or months have peak sales activity?
 # Dashboard Interaction
-- Dashboard1 <a href="https://github.com/Sradha12/Store-Sales-Analysis-Power-BI-Dashboard/blob/main/Screenshot%20(27).png"> click here <a/>
+- Dashboard1 <a href="https://github.com/Sradha12/Store-Sales-Analysis-Power-BI-Dashboard/blob/main/Screenshot%20(26).png"> click here <a/>
+- Dashboard2 <a href="https://github.com/Sradha12/Store-Sales-Analysis-Power-BI-Dashboard/blob/main/Screenshot%20(27).png"> click here <a/>
