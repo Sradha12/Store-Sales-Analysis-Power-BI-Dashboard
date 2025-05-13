@@ -2,7 +2,7 @@
 ## Project Objective
 The objective of this project is to develop an interactive sales dashboard for business managers to understand sales trends, profit distribution, customer preferences, and regional performance. This insight supports strategic planning and performance optimization.
 # Dataset Used
-- Data set <a href="https://github.com/Sradha12/Store-Sales-Analysis-Power-BI-Dashboard/blob/main/Store%20sales%20data.pbix">Hotel manegment data<a/>
+- Data set <a href="https://github.com/Sradha12/Store-Sales-Analysis-Power-BI-Dashboard/blob/main/Store%20sales%20data.pbix">Store-Sales<a/>
 # Key Performance Questions (KPIs)
 - What is the total sales and total profit achieved?
 - Which region leads in sales, profit, and quantity sold?
